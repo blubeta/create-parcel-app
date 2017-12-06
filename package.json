@@ -1,0 +1,9 @@
+{
+  "name": "create-parcel-app",
+  "version": "0.0.1",
+  "description": "CLI for initializing front end projects with parcel",
+  "main": "index.js",
+  "author": "lucas@blubeta.com",
+  "license": "MIT",
+  "private": false
+}
